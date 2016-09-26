@@ -1,2 +1,16 @@
-# booklist
-a grails sample application
+Booklist
+========
+
+A Grails demo application 
+
+Plan
+--------------
+
+Domain-Classes
+* Book
+* Author
+
+Implementation
+--------------
+
+Nothing - so far
