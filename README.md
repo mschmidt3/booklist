@@ -13,4 +13,4 @@ Domain-Classes
 Implementation
 --------------
 
-Nothing - so far
+Book and Author with scaffolding controllers
