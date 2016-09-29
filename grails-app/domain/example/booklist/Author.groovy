@@ -9,4 +9,6 @@ class Author {
         lastname  nullable:false
         givenname nullable:true
     }
+
+    public String toString(){ "$lastname, $givenname"}
 }
